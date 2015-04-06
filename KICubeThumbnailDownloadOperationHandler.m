@@ -112,4 +112,7 @@
     [theOfflineAlert show];
 }
 
+-(void)addMethod
+{}
+
 @end

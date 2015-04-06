@@ -118,6 +118,7 @@
 {}
 
 -(void)addMethod4
+-(void)addMethod3
 {}
 
 @end
